@@ -1,0 +1,7 @@
+{
+  "name": "NujoomEGY",
+  "description": "The ultimate football scouting platform for Egypt, connecting rising talent with professional scouts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
